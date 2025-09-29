@@ -1,5 +1,3 @@
-from numpy.random import choice
-
 
 class Bank:
 
@@ -63,6 +61,7 @@ except Exception as e:
 
 finally:
     print("ATM session closed!")
+
 
 
 
